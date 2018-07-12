@@ -1,4 +1,4 @@
-buildroot_version=2016.08.1
+buildroot_version=2018.02.3
 buildroot_url=http://buildroot.uclibc.org/downloads/buildroot-${buildroot_version}.tar.bz2
 packages=('nodejs')
 # users is the 'makeuser' syntax
